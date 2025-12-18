@@ -1,0 +1,7 @@
+{
+  "name": "glatt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
